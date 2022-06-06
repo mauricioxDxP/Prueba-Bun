@@ -1,0 +1,6 @@
+run = "cowsay Configure me!"
+
+[nix]
+channel = "stable-21_11"
+[env]
+PATH = "/home/runner/.bun/bin"
